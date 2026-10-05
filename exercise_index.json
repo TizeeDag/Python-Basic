@@ -1,0 +1,267 @@
+[
+  {
+    "exercise": "1.3.2",
+    "file": "chapter_1/exercise_1_3_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@1dadfa82310f42b0a87a1e218410c9eb/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@c9a55f2d12464015829e957343417457"
+  },
+  {
+    "exercise": "1.4.1",
+    "file": "chapter_1/exercise_1_4_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@f6c6e3e0afbc4523b1c49fe34fc0ae0f/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f27357e0ce554540b6bf33c29c0a712b"
+  },
+  {
+    "exercise": "1.4.2",
+    "file": "chapter_1/exercise_1_4_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@f6c6e3e0afbc4523b1c49fe34fc0ae0f/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3f11a0daa57f4c0d800134f9517b9304"
+  },
+  {
+    "exercise": "2.3.3",
+    "file": "chapter_2/exercise_2_3_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@231b1b63e87e4f269f36005930dab1b2/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3218bd2ed5c74b7780b88ad510d34643"
+  },
+  {
+    "exercise": "2.5.1",
+    "file": "chapter_2/exercise_2_5_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@08ab6f4520044d74b73117dc2d59932c/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@108795d7d5274b5fbcc57a6c668f1ea0"
+  },
+  {
+    "exercise": "2.5.2",
+    "file": "chapter_2/exercise_2_5_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@08ab6f4520044d74b73117dc2d59932c/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@683b7b95e9a844be824a0b91ff088f28"
+  },
+  {
+    "exercise": "3.2.1",
+    "file": "chapter_3/exercise_3_2_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@42bb768eb21648a7a69c837240a17ee8/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@81a8822f6ee84ba498f76116eef8d664"
+  },
+  {
+    "exercise": "3.3.3",
+    "file": "chapter_3/exercise_3_3_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@2360a9bed7194a2bb6bfb0f25bb01dc5/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@18d69dbbfccc4504b0a1c45218e5b41b"
+  },
+  {
+    "exercise": "3.4.2",
+    "file": "chapter_3/exercise_3_4_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@8a28cfb4bb7c4a0ab77a1cc69d128770/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@55c2648a0cc740b5bf68bac0f6e929e5"
+  },
+  {
+    "exercise": "3.4.3",
+    "file": "chapter_3/exercise_3_4_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@8a28cfb4bb7c4a0ab77a1cc69d128770/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@6a64e253b5564540acd6e27a63be4f52"
+  },
+  {
+    "exercise": "3.5.1",
+    "file": "chapter_3/exercise_3_5_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@74e2d8eda8384b1ea0389ad8c7698102/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@76a16a3ff9e341968372f79fe398de0f"
+  },
+  {
+    "exercise": "3.5.2",
+    "file": "chapter_3/exercise_3_5_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@74e2d8eda8384b1ea0389ad8c7698102/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@61f3b2082a0f49c5a17e32a9804e46f6"
+  },
+  {
+    "exercise": "4.2.2",
+    "file": "chapter_4/exercise_4_2_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@81ecd9c39c884acc90cec9f6bee75194/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3debc6868079436d8f7fce2b294a336c"
+  },
+  {
+    "exercise": "4.2.3",
+    "file": "chapter_4/exercise_4_2_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@81ecd9c39c884acc90cec9f6bee75194/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@bd8cf535918745d1aaf045ea1d1c846a"
+  },
+  {
+    "exercise": "4.2.4",
+    "file": "chapter_4/exercise_4_2_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@81ecd9c39c884acc90cec9f6bee75194/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3c35dfd9a1cc448ebd81b4bf7d5070e4"
+  },
+  {
+    "exercise": "4.3.1",
+    "file": "chapter_4/exercise_4_3_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@0320c867b72549fa926b3daed93c749a/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@6c0d9d77e46b42c2874180badaedf2bf"
+  },
+  {
+    "exercise": "5.3.4",
+    "file": "chapter_5/exercise_5_3_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@d1521fc3f4164b2eb427b27fae88581d/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@5c666a0ee98042a4b009e3babcf5898e"
+  },
+  {
+    "exercise": "5.3.5",
+    "file": "chapter_5/exercise_5_3_5.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@d1521fc3f4164b2eb427b27fae88581d/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@bb8eff833dcb49b2a4aa39f26227aa3d"
+  },
+  {
+    "exercise": "5.3.6",
+    "file": "chapter_5/exercise_5_3_6.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@d1521fc3f4164b2eb427b27fae88581d/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@ef180f93105b4ebeade04e8fa0b4fce0"
+  },
+  {
+    "exercise": "5.3.7",
+    "file": "chapter_5/exercise_5_3_7.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@d1521fc3f4164b2eb427b27fae88581d/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@ffedb30514b24f2cacc9a81258d5de7b"
+  },
+  {
+    "exercise": "5.4.1",
+    "file": "chapter_5/exercise_5_4_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@ddc07eba846d4b1a94602875041fd39a/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@cce3d256245245859785aded8e2a301f"
+  },
+  {
+    "exercise": "5.5.1",
+    "file": "chapter_5/exercise_5_5_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@4e2605d7571f46b09f0e152460349db7/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f74166e2c3a643ad9192e0cebd792d05"
+  },
+  {
+    "exercise": "6.1.2",
+    "file": "chapter_6/exercise_6_1_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@3b2698bd93af42f4840ae25a595b699b/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@6a598e91c8034fdeb54fba254533dbf7"
+  },
+  {
+    "exercise": "6.2.3",
+    "file": "chapter_6/exercise_6_2_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@7baca973d264468ab6d22d57508f61d9/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@27ff62fc0d214be39c59beb9dc039091"
+  },
+  {
+    "exercise": "6.2.4",
+    "file": "chapter_6/exercise_6_2_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@7baca973d264468ab6d22d57508f61d9/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@84b0de75381b44cc95f3207b976de08b"
+  },
+  {
+    "exercise": "6.3.1",
+    "file": "chapter_6/exercise_6_3_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b1f28e5b642b4b9ba402a272c2a58197/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@6d6927c4877c40cca6a62ff6f43ebafa"
+  },
+  {
+    "exercise": "6.3.2",
+    "file": "chapter_6/exercise_6_3_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b1f28e5b642b4b9ba402a272c2a58197/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f50eccc1d6574414a6a09b98fc0e143d"
+  },
+  {
+    "exercise": "6.4.1",
+    "file": "chapter_6/exercise_6_4_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9270da53c1ed4b7d81ed623dd2f51c41/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@14032a124e244321a162a331e7072196"
+  },
+  {
+    "exercise": "6.4.2",
+    "file": "chapter_6/exercise_6_4_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9270da53c1ed4b7d81ed623dd2f51c41/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3aa1a3d87a7d4f2f80b9bab98508343c"
+  },
+  {
+    "exercise": "7.1.4",
+    "file": "chapter_7/exercise_7_1_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@e4f510f6680f4d3fb349dae3328d056c/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@753c0a4a3a01478590d0734d0250f349"
+  },
+  {
+    "exercise": "7.2.1",
+    "file": "chapter_7/exercise_7_2_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@4c2a4a0e0d734aaea28852c9c9c06e06"
+  },
+  {
+    "exercise": "7.2.2",
+    "file": "chapter_7/exercise_7_2_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@266dfb5181be45399474428fc8feebdb"
+  },
+  {
+    "exercise": "7.2.4",
+    "file": "chapter_7/exercise_7_2_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@410907e0ee9243d7abe926417587b38d"
+  },
+  {
+    "exercise": "7.2.5",
+    "file": "chapter_7/exercise_7_2_5.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@c188328be76e4a6fa6c0aab42f041be4"
+  },
+  {
+    "exercise": "7.2.6",
+    "file": "chapter_7/exercise_7_2_6.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@7ea9e3c9fd8c4f898e898b9150ccb90c"
+  },
+  {
+    "exercise": "7.2.7",
+    "file": "chapter_7/exercise_7_2_7.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9f7d34a8fe3149d2acc9b5bc45ad42d4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@c326213a5d1c43638c3157f12620c7ed"
+  },
+  {
+    "exercise": "7.3.1",
+    "file": "chapter_7/exercise_7_3_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@03a2d4440ab54366a820726b6b1f02e4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@0e96b419e4f34ba2be56ee1ecdfc8668"
+  },
+  {
+    "exercise": "7.3.2",
+    "file": "chapter_7/exercise_7_3_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@03a2d4440ab54366a820726b6b1f02e4/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@af791ffca7184d9486dd75d032f90993"
+  },
+  {
+    "exercise": "8.2.1",
+    "file": "chapter_8/exercise_8_2_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b0713462bbd54813af90aef7c415c0f7/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@8371dcebf76a4332a4688db8f9434f9d"
+  },
+  {
+    "exercise": "8.2.2",
+    "file": "chapter_8/exercise_8_2_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b0713462bbd54813af90aef7c415c0f7/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@d3cebdf7020d4c38866ca60e493645bf"
+  },
+  {
+    "exercise": "8.2.3",
+    "file": "chapter_8/exercise_8_2_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b0713462bbd54813af90aef7c415c0f7/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f2589838212844759a4ad85c8c97060a"
+  },
+  {
+    "exercise": "8.2.4",
+    "file": "chapter_8/exercise_8_2_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b0713462bbd54813af90aef7c415c0f7/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f3f849c6f53b4ce186a0353b6ffe18a9"
+  },
+  {
+    "exercise": "8.3.2",
+    "file": "chapter_8/exercise_8_3_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@654a639b76774acfa196fde00401bd38/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@8763db45a8c84d12a06f3f671acc6dd5"
+  },
+  {
+    "exercise": "8.3.3",
+    "file": "chapter_8/exercise_8_3_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@654a639b76774acfa196fde00401bd38/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@d84b3d430151432c905817d3e7367dec"
+  },
+  {
+    "exercise": "8.3.4",
+    "file": "chapter_8/exercise_8_3_4.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@654a639b76774acfa196fde00401bd38/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3d8fb6c26e584dd48aa93d13bdb41671"
+  },
+  {
+    "exercise": "8.4.1",
+    "file": "chapter_8/exercise_8_4_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@b6c8051daf644c50ac1ab27024f049c6/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@b75c173ec7bf4114bfa8aaae65c7b4b4"
+  },
+  {
+    "exercise": "9.1.1",
+    "file": "chapter_9/exercise_9_1_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@4b5800c5ab2043d79d54dabb136cb3e2/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@440b3a97687c418a8c3511cb7e103b1c"
+  },
+  {
+    "exercise": "9.1.2",
+    "file": "chapter_9/exercise_9_1_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@4b5800c5ab2043d79d54dabb136cb3e2/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@f6ee4db3f1334a19ba4d272c7d394692"
+  },
+  {
+    "exercise": "9.2.2",
+    "file": "chapter_9/exercise_9_2_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9986da15a56642678bac819e78448cf0/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@ad24ef819b5d4d38b01e847af05f7f2e"
+  },
+  {
+    "exercise": "9.2.3",
+    "file": "chapter_9/exercise_9_2_3.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@9986da15a56642678bac819e78448cf0/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@264caa8c25504a0eaaa1f8ffd06e0fbe"
+  },
+  {
+    "exercise": "9.3.1",
+    "file": "chapter_9/exercise_9_3_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@76497db395a3473d926852e099c6d46f/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@31aa8162e716430183c9e4761d869dc6"
+  },
+  {
+    "exercise": "9.3.2",
+    "file": "chapter_9/exercise_9_3_2.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@76497db395a3473d926852e099c6d46f/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@3d4e5267af104fc2aed4d3dac2dff52c"
+  },
+  {
+    "exercise": "9.4.1",
+    "file": "chapter_9/exercise_9_4_1.py",
+    "course_url": "https://app.campus.gov.il/learning/course/ccx-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@sequential+block@f286263e337547fd918bb2c690090f11/ccx-block-v1:CS+GOV_CS_selfpy101+2022_1+ccx@8435+type@vertical+block@52d3c549f8ce4b6991c43e768b852840"
+  }
+]
